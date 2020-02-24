@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "942063630938",
+    "firebase_url": "https://roomessenger.firebaseio.com",
+    "project_id": "roomessenger",
+    "storage_bucket": "roomessenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942063630938:android:125fb1e179424673fc3663",
+        "android_client_info": {
+          "package_name": "com.example.roomessenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942063630938-0nivicqkq8j3avgsv0krqlohbnjm7g2f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.roomessenger",
+            "certificate_hash": "9b7a844722f343f7559852b3f4ceb0450400f2c7"
+          }
+        },
+        {
+          "client_id": "942063630938-i63f7r4hplogsa3hcas75064h0qamtbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuN91aVZsBfVKxB0kR705avKg_-un6vSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942063630938-i63f7r4hplogsa3hcas75064h0qamtbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
