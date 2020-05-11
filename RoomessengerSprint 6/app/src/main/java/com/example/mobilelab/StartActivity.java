@@ -1,4 +1,4 @@
-package com.example.mobilelab;
+package com.example.messenger;
 
 import androidx.appcompat.app.AppCompatActivity;
 

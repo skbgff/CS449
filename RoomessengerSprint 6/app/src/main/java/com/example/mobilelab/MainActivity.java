@@ -1,4 +1,4 @@
-package com.example.mobilelab;
+package com.example.roomessenger;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
